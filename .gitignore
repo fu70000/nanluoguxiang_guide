@@ -1,0 +1,17 @@
+# uni-app相关
+unpackage/
+node_modules/
+.uniapp/
+dist/
+
+# 微信开发者工具相关
+miniprogram_npm/
+.sitemap.json
+project.config.json.bak
+
+# 编辑器缓存
+.DS_Store（Mac专属）
+.idea/
+.vscode/
+*.log
+.env
